@@ -6,7 +6,7 @@ from PIL import Image
 import supervision as sv
 
 
-client = genai.Client(api_key="")
+client = genai.Client(api_key="AIzaSyBpn8SNRC3EGM0JbrRHLPlqk8oE2AIuhN8")
 
 MODEL_NAME = "gemini-3-flash-preview"
 IMAGE_PATH = "sample.jpg"
